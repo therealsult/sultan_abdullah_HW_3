@@ -1,4 +1,4 @@
-![Hello](Banner_img.jpg "Car img") <hight= 500> <width= 400>
+![Hello](Banner_img.jpg "Car img") 
 
 
 # The Exotic Motorsports Professionals 
