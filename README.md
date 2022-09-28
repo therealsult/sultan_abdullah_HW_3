@@ -1,8 +1,6 @@
 ![Hello](Banner_img.jpg "Car img")
-
-# this is Branch #3
-
-this is a change on branch #3
+### Lambo 
+# Learning Github Desktop
 
 
 ## Contributing
@@ -13,13 +11,10 @@ this is a change on branch #3
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-this is change #4 to branch #3
-
-This is chnage #5 to the same branch. Branch #4 img added
 
 
 
 ![Hello](Ferrari_banner.jpg "Car img")
-
+### Ferrari
 ## License
 MIT
