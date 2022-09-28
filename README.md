@@ -16,6 +16,8 @@ This is a change made by ### Greatgrate1234 to the main file on branch #4
 
 ![Hello](Ferrari_banner.jpg "Car img")
 
+### Ferrari
+
 ## History
 
 TODO: Write history
@@ -26,6 +28,6 @@ TODO: Write credits
 
 
 
-### Ferrari
+
 ## License
 MIT
