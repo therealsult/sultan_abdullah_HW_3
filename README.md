@@ -24,8 +24,8 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
-
+Sultan Abdullah (therealsult)
+Sultan Abdullah (greatgrate1234)
 
 
 
