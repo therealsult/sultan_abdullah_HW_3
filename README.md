@@ -11,7 +11,7 @@
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-This is a change made by ### Greatgrate1234 to the main file on branch #4
+hello
 
 
 ![Hello](Ferrari_banner.jpg "Car img")
