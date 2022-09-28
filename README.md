@@ -16,6 +16,8 @@ This is a change made by ### Greatgrate1234 to the main file on branch #4
 
 ![Hello](Ferrari_banner.jpg "Car img")
 
+## History
+
 TODO: Write history
 
 ## Credits
