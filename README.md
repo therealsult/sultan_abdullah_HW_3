@@ -1,6 +1,6 @@
 ![Hello](Banner_img.jpg "Car img")
-### Lambo 
-# Github - All About Cars
+
+# The Exotic Motorsports Professionals 
 
 @greategrate1234 - We hope you enjoy our daily events, visit our gallary for more content.
 
@@ -18,7 +18,6 @@
 
 ![Hello](Ferrari_banner.jpg "Car img")
 
-### Ferrari
 
 ## History
 
