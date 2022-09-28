@@ -1,2 +1,3 @@
-# sultan_abdullah_HW_3
- using the Github Desktop app
+# Github Homework #3 changed
+
+ using the Github Desktop app. this is a changed doc
