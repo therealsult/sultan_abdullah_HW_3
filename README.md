@@ -1,6 +1,6 @@
 ![Hello](Banner_img.jpg "Car img")
 ### Lambo 
-# Learning Github Desktop
+# Learning Github on Desktop
 
 
 ## Contributing
