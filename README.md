@@ -2,6 +2,8 @@
 ### Lambo 
 # Github - All About Cars
 
+@therealsult - Motorsport vehicle racing organization, Welcome to the show.
+
 
 ## Contributing
 
@@ -11,7 +13,7 @@
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-hello
+@greategrate1234 - We hope you enjoy our daily events, visit our gallary for more content.
 
 
 ![Hello](Ferrari_banner.jpg "Car img")
